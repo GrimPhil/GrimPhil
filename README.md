@@ -1,8 +1,10 @@
-## Hi there 👋
+# This is a personal account for tracking my progress in learning.
+I want to be able to look back on my progress over time so I can see my improvements.
+Because of that, I made this account on github and I want to keep track of what I am doing and how it is changing.
 
+I am learning how to use git, github, and programming in general, so if anyone stumbles uppon this account by accident or something I made public and wants to leave some constructive criticism or advice, feel free to do so.
+I am teaching myself everything that I am going to make.
 <!--
-**GrimPhil/GrimPhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
